@@ -11,7 +11,7 @@ A Python package for web scraping, crawling, and structured data extraction usin
 ## Installation
 
 ```bash
-pip install paw
+🚧 under construction 🚧
 ```
 
 ## Usage
