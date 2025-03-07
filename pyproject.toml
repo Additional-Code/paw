@@ -1,0 +1,14 @@
+[project]
+name = "paw"
+version = "0.1.0"
+description = "Crawl and extract data from websites"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "html2text>=2024.2.26",
+    "openai>=1.65.4",
+    "pydantic>=2.10.6",
+    "requests>=2.32.3",
+    "yaspin>=3.1.0",
+]
